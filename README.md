@@ -11,3 +11,6 @@ This is about changing
 
 ## Copyright
 org.learn
+
+#Contribute
+Issue the pull reqyest
