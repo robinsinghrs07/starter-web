@@ -1,3 +1,4 @@
 
+This is a new line to add the file into the staging area
 Inserting a line from mac-pro.Inserting this line from mac-air.This is the text file on which both dvelopers will work. Adding some content from user Mac-Pro.
 
